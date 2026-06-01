@@ -1,1 +1,1 @@
-
+This folder contains sample visualizations, diagrams, and plots generated from the telemetry analytics pipeline. These images are used to illustrate fleet-level distributions, spectra representations, and comparative analyses across vehicles and powertrain configurations.
