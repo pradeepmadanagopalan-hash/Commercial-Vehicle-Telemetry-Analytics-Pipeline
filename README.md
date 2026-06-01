@@ -115,7 +115,7 @@ M --> M3[Before vs After Comparison]
 *Normalized weight spectra distribution across fleet vehicles for a selected powertrain setup (sales group). Users can dynamically adjust bin width and x-axis parameters via a Spark dashboard to generate customized fleet-level distributions.*
 
 <p align="center">
-  <img src="images/1D_Weight_Spectra_Example.png" width="600"/>
+  <img src="Images/1D_Weight_Spectra_Example.png" width="600"/>
 </p>
 
 **Example 2 (2D Spectra):** Engine Operation Distribution
@@ -123,7 +123,7 @@ M --> M3[Before vs After Comparison]
 *2D engine operation spectra for a selected fleet/powertrain setup (sales group), representing joint distributions of operating parameters. Users can dynamically select both X and Y axes, along with bin widths, via a Spark dashboard to generate customized multi-dimensional fleet-level analyses.*
 
 <p align="center">
-  <img src="images/2D_Engine_Spectra_Example.png" width="600"/>
+  <img src="Images/2D_Engine_Spectra_Example.png" width="600"/>
 </p>
 
 **Example 3 (Comparative Analytics):** Fleet Performance Benchmarking
@@ -131,7 +131,7 @@ M --> M3[Before vs After Comparison]
 *Multi-dimensional analysis framework allowing users to select multiple operational and performance parameters across different powertrain configurations. The system computes aggregated fleet statistics using mileage- or time-weighted averaging and enables comparative analysis through radar plots to evaluate relative performance across fleets and configurations.*
 
 <p align="center">
-  <img src="images/Operational_Conditions_&_Performance_Analysis_RadarPlotExample.png" width="600"/>
+  <img src="Images/Operational_Conditions_&_Performance_Analysis_RadarPlotExample.png" width="600"/>
 </p>
 
 **Example 4 (Distribution Analysis):** Fuel Consumption Comparison
@@ -139,7 +139,7 @@ M --> M3[Before vs After Comparison]
 *Box plots comparing fuel consumption distributions across four user-selected customers. Such visualizations help identify variability, outliers, and operational efficiency differences between fleets, enabling data-driven benchmarking and highlighting inconsistencies in driving behavior or usage patterns.*
 
 <p align="center">
-  <img src="images/Customer_Fleet_FC_Analytics_Example.png" width="600"/>
+  <img src="Images/Customer_Fleet_FC_Analytics_Example.png" width="600"/>
 </p>
 
 NOTE: These examples represent only a subset of the available analytical views. The framework supports dynamic generation of comparable visualizations across diverse processed telemetry signals, powertrain configurations, customer fleets and geographical operating regions.
@@ -180,7 +180,7 @@ No raw or sensitive data is included.
 
 👨‍💻 **10. Key Takeaways / Skills Demonstrated**
 
-This project I demonstrate end-to-end capability in building scalable telemetry analytics pipelines, combining distributed data processing, statistical feature engineering, and fleet-level behavioral analysis.
+Through this project I demonstrate end-to-end capability in building scalable telemetry analytics pipelines, combining distributed data processing, statistical feature engineering, and fleet-level behavioral analysis.
 
 Key skills showcased include:
 
