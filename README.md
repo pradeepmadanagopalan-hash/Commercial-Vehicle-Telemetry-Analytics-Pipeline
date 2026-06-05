@@ -6,9 +6,18 @@ Modern commercial vehicles generate high-frequency telemetry data that is rich b
 This project builds an end-to-end telemetry analytics pipeline that transforms raw vehicle signals into structured, analysis-ready representations. 
 It enables fleet-level comparison, behavioral analysis, and data-driven validation across multiple vehicle groups using scalable PySpark workflows.
 
+<table>
+  <tr>
+    <td align="center">
+      <b></b><br>
+      <img src="Images/Repo_Intro_gif.gif" width="700"/>
+    </td>
+  </tr>
+</table>
+
 ---
 
-🧩 **2. Problem Complexity & Motivation**
+🧩 **2. Challenge**
 
 This project addresses the challenges of processing commercial vehicle telemetry at scale.
 
@@ -178,7 +187,7 @@ No raw or sensitive data is included.
 
 ---
 
-👨‍💻 **10. Key Takeaways / Skills Demonstrated**
+👨‍💻 **10. Skills Demonstrated**
 
 Through this project I demonstrate end-to-end capability in building scalable telemetry analytics pipelines, combining distributed data processing, statistical feature engineering, and fleet-level behavioral analysis.
 
